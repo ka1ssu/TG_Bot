@@ -4,7 +4,7 @@ from random import choice
 import random
 import menu
 
-API_TOKEN = '6161507050:AAGfJRC2iVDm_s0tfi_GjnSoj3MAF7HLsec'
+API_TOKEN = ''
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
